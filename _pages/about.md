@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Wenhao Wang("王文浩" in Chinese and "オウブンコウ" in Japanese).I am a master researcher at [Harbin Engineering University, China](https://english.hrbeu.edu.cn/).My research interest include Fisheries Acoustics, Machine Learning and Global Navigation Satellite System and Acoustic ranging(GNSS-A).I am also a member of [AFAS](https://www.afas-acoustic.org/).Now my research focus on underwater target tracking based on machine learning and kalman filter.
+I am Wenhao Wang("王文浩" in Chinese and "オウブンコウ" in Japanese).I am a master researcher at [Harbin Engineering University, China](https://english.hrbeu.edu.cn/).My research interest include Fisheries Acoustics, Machine Learning and Global Navigation Satellite System and Acoustic ranging(GNSS-A).I am also a member of [AFAS](https://www.afas-acoustic.org/).Now my research focus on underwater target tracking based on machine learning and kalman filter.Expected to pursue a doctoral degree at the [Yokota lab](https://homepage.hrbeu.edu.cn/web/gewei) at [Utokyo, Tokyo, Japan](https://www.u-tokyo.ac.jp/en/)
 
 Education
 ======
