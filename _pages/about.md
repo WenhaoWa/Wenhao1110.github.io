@@ -42,7 +42,7 @@ Following Researcher
 Research Reference 
 ======
 
-*(1)GNSS-A*
+**(1)GNSS-A**
 
 1. [Watanabe S, Ishikawa T, Yokota Y, et al. GARPOS: Analysis software for the GNSS‐A seafloor positioning with simultaneous estimation of sound speed structure[J]. Frontiers in Earth Science, 2020, 8: 597532.](https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2020.597532/full)
 2. [Watanabe S, Ishikawa T, Nakamura Y, et al. Full-Bayes GNSS-A solutions for precise seafloor positioning with single uniform sound speed gradient layer assumption[J]. Journal of Geodesy, 2023, 97(10): 89.](https://link.springer.com/article/10.1007/s00190-023-01774-6)
@@ -51,7 +51,7 @@ Research Reference
 5. [Tomita F. Enhanced GNSS-acoustic positioning method implementing with constraints on underwater sound speed structure[J]. Earth, Planets and Space, 2024, 76(1): 178.](https://link.springer.com/article/10.1186/s40623-024-02120-6)
 6. [Ikuta R, Tadokoro K, Ando M, et al. A new GPS‐acoustic method for measuring ocean floor crustal deformation: Application to the Nankai Trough[J]. Journal of Geophysical Research: Solid Earth, 2008, 113(B2).](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2006JB004875)
 
-*(2)Fisheries Acoustics*
+**(2)Fisheries Acoustics**
 
 7. [Urmy S S, De Robertis A, Bassett C. A Bayesian inverse approach to identify and quantify organisms from fisheries acoustic data[J]. ICES Journal of Marine Science, 2024, 81(7): 1461-1477.](https://academic.oup.com/icesjms/article/81/7/1461/7220877)
 8. [Cotter E, Bassett C, Lavery A. Classification of broadband target spectra in the mesopelagic using physics-informed machine learning[J]. The Journal of the Acoustical Society of America, 2021, 149(6): 3889-3901.](https://pubs.aip.org/asa/jasa/article/149/6/3889/1059295)
@@ -59,3 +59,10 @@ Research Reference
 10. [Stanton T K, Lee W J, Baik K. Echo statistics associated with discrete scatterers: A tutorial on physics-based methods[J]. The Journal of the Acoustical Society of America, 2018, 144(6): 3124-3171.](https://pubs.aip.org/asa/jasa/article/144/6/3124/993369)
 11. [Lee W J, Stanton T K. Statistics of broadband echoes: Application to acoustic estimates of numerical density of fish[J]. IEEE Journal of Oceanic Engineering, 2015, 41(3): 709-723.](https://ieeexplore.ieee.org/abstract/document/7342987/)
 12. [Loranger S, Jech M J, Lavery A C. Broadband acoustic quantification of mixed biological aggregations at the New England shelf break[J]. The Journal of the Acoustical Society of America, 2022, 152(4): 2319-2335.](https://pubs.aip.org/asa/jasa/article/152/4/2319/2839494)
+
+Activity 
+======
+[Tiktok Blogger](https://www.douyin.com/user/self?from_tab_name=main)
+
+[Cities: Skylines](https://www.paradoxinteractive.com/games/cities-skylines/about): My goal is to establish tokyo!!૮₍ ˃̶ ꇴ ˂̶ ₎ა 
+![tokyo.png](../images/tokyo.png)
