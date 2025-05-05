@@ -23,6 +23,7 @@ Research Reference
 ======
 
 *(1)GNSS-A*
+
 1. [Watanabe S, Ishikawa T, Yokota Y, et al. GARPOS: Analysis software for the GNSS‐A seafloor positioning with simultaneous estimation of sound speed structure[J]. Frontiers in Earth Science, 2020, 8: 597532.](https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2020.597532/full)
 2. [Watanabe S, Ishikawa T, Nakamura Y, et al. Full-Bayes GNSS-A solutions for precise seafloor positioning with single uniform sound speed gradient layer assumption[J]. Journal of Geodesy, 2023, 97(10): 89.](https://link.springer.com/article/10.1007/s00190-023-01774-6)
 3. [Yokota Y, Ishikawa T, Watanabe S. Gradient field of undersea sound speed structure extracted from the GNSS-A oceanography[J]. Marine Geophysical Research, 2019, 40(4): 493-504.](https://link.springer.com/article/10.1007/s11001-018-9362-7)
@@ -31,6 +32,7 @@ Research Reference
 6. [Ikuta R, Tadokoro K, Ando M, et al. A new GPS‐acoustic method for measuring ocean floor crustal deformation: Application to the Nankai Trough[J]. Journal of Geophysical Research: Solid Earth, 2008, 113(B2).](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2006JB004875)
 
 *(2)Fisheries Acoustics*
+
 7. [Urmy S S, De Robertis A, Bassett C. A Bayesian inverse approach to identify and quantify organisms from fisheries acoustic data[J]. ICES Journal of Marine Science, 2024, 81(7): 1461-1477.](https://academic.oup.com/icesjms/article/81/7/1461/7220877)
 8. [Cotter E, Bassett C, Lavery A. Classification of broadband target spectra in the mesopelagic using physics-informed machine learning[J]. The Journal of the Acoustical Society of America, 2021, 149(6): 3889-3901.](https://pubs.aip.org/asa/jasa/article/149/6/3889/1059295)
 9. [Dunn M, McGowan-Yallop C, Pedersen G, et al. Model-informed classification of broadband acoustic backscatter from zooplankton in an in situ mesocosm[J]. ICES Journal of Marine Science, 2024, 81(7): 1371-1384.](https://academic.oup.com/icesjms/article/81/7/1371/7460294)
