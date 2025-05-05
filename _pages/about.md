@@ -7,15 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I am Wenhao Wang("王文浩" in Chinese and "オウブンコウ" in Japanese). I am a master researcher at [Harbin Engineering University, China](https://english.hrbeu.edu.cn/). My research interest include Fisheries Acoustics, Machine Learning and Global Navigation Satellite System and Acoustic ranging(GNSS-A). I am also a member of [AFAS](https://www.afas-acoustic.org/). Now my research focus on underwater target tracking based on machine learning and kalman filter. Expected to pursue a doctoral degree at the [Yokota lab](https://sgoi.iis.u-tokyo.ac.jp/index_e.html) at [Utokyo, Tokyo, Japan](https://www.u-tokyo.ac.jp/en/). In terms of private, I have a girlfriend named *Xiaoyu Xia* who is pursuing the master degree at [Shantou University](https://www.stu.edu.cn/), [College of Science](https://sci.stu.edu.cn/index.htm), [Guangdong Provincial Key Laboratory of Marine Disaster Prediction and Prevention](http://sph.stu.edu.cn/marine/index.htm)("海洋灾害预警与防护广东省重点实验室" in Chinese)
+I am Wenhao Wang ("王文浩" in Chinese and "オウブンコウ" in Japanese). I am a master researcher at [Harbin Engineering University, China](https://english.hrbeu.edu.cn/). My research interest include Fisheries Acoustics, Machine Learning and Global Navigation Satellite System and Acoustic ranging(GNSS-A). I am also a member of [AFAS](https://www.afas-acoustic.org/). Now my research focus on underwater target tracking based on machine learning and kalman filter. Expected to pursue a doctoral degree at the [Yokota lab](https://sgoi.iis.u-tokyo.ac.jp/index_e.html) at [Utokyo, Tokyo, Japan](https://www.u-tokyo.ac.jp/en/). In terms of private, I have a girlfriend named [**Xiaoyu Xia**](../images/mypic.png) who is pursuing the master degree at [Shantou University](https://www.stu.edu.cn/), [College of Science](https://sci.stu.edu.cn/index.htm), [Guangdong Provincial Key Laboratory of Marine Disaster Prediction and Prevention](http://sph.stu.edu.cn/marine/index.htm) ("海洋灾害预警与防护广东省重点实验室" in Chinese)
 
 Education
 ======
-**M.Eng. in Information and Communication Engineering, 2025(Supervised by [Wei Ge](https://homepage.hrbeu.edu.cn/web/gewei))**
+**M.Eng. in Information and Communication Engineering, 2025 (Supervised by [Wei Ge](https://homepage.hrbeu.edu.cn/web/gewei))**
 
 Harbin Engineering University, Harbin, Heilongjiang Province, China
 
-**B.A in Marine Technology, 2022(Supervised by [Yong Tang](https://hyxy.shou.edu.cn/2024/1113/c7720a335682/page.htm))**
+**B.A in Marine Technology, 2022 (Supervised by [Yong Tang](https://hyxy.shou.edu.cn/2024/1113/c7720a335682/page.htm))**
 
 Dalian Ocean University, Dalian, Liaoning Province, China
 
