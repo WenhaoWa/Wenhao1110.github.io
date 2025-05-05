@@ -11,11 +11,11 @@ I am **Wenhao Wang ("王文浩" in Chinese and "オウブンコウ" in Japanese)
 
 Education
 ======
-**M.Eng. in Information and Communication Engineering, 2025 (Supervised by [Wei Ge](https://homepage.hrbeu.edu.cn/web/gewei) ("葛威" in Chinese) and Zhixiang Yao ("姚直象" in Chinese) from [NUE](https://www.nue.edu.cn/))**
+**M.Eng. in Information and Communication Engineering, 2025 (Supervised by [Wei Ge](https://homepage.hrbeu.edu.cn/web/gewei) and Zhixiang Yao from [NUE](https://www.nue.edu.cn/))**
 
 Harbin Engineering University, Harbin, Heilongjiang Province, China
 
-**B.A in Marine Technology, 2022 (Supervised by [Yong Tang](https://hyxy.shou.edu.cn/2024/1113/c7720a335682/page.htm)  ("汤勇" in Chinese))**
+**B.A in Marine Technology, 2022 (Supervised by [Yong Tang](https://hyxy.shou.edu.cn/2024/1113/c7720a335682/page.htm)**
 
 Dalian Ocean University, Dalian, Liaoning Province, China
 
