@@ -13,6 +13,8 @@ Education
 ======
 **B.A in Marine Technology, 2022**
 Dalian Ocean University, Dalian, Liaoning Province, China
+
+
 **M.Eng. in Information and Communication Engineering, 2025**
 Harbin Engineering University, Harbin, Heilongjiang Province, China
 
