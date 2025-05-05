@@ -15,7 +15,7 @@ Education
 
 Harbin Engineering University, Harbin, Heilongjiang Province, China
 
-**B.A in Marine Technology, 2022 (Supervised by [Yong Tang](https://hyxy.shou.edu.cn/2024/1113/c7720a335682/page.htm)) ("汤勇" in Chinese)**
+**B.A in Marine Technology, 2022 (Supervised by [Yong Tang](https://hyxy.shou.edu.cn/2024/1113/c7720a335682/page.htm)  ("汤勇" in Chinese))**
 
 Dalian Ocean University, Dalian, Liaoning Province, China
 
