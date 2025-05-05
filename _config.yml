@@ -46,7 +46,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/WenhaoWa"
+  github           : "WenhaoWa"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -74,7 +74,7 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : #"https://www.zhihu.com/people/gu-du-de-shi-58"
+  zhihu            : "people/gu-du-de-shi-58"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
