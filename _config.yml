@@ -74,7 +74,7 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : "https://www.zhihu.com/people/gu-du-de-shi-58"
+  zhihu            : #"https://www.zhihu.com/people/gu-du-de-shi-58"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
