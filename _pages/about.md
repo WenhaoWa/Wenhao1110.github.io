@@ -66,4 +66,4 @@ Activity
 
 [Cities: Skylines](https://www.paradoxinteractive.com/games/cities-skylines/about): My goal is to establish tokyo!!૮₍ ˃̶ ꇴ ˂̶ ₎ა 
 
-![tokyo.png](/images/tokyo.png)
+![tokyo.png]("https://wenhaowa.github.io/images/tokyo.png")
