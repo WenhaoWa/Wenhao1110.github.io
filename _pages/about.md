@@ -22,13 +22,21 @@ Dalian Ocean University, Dalian, Liaoning Province, China
 Following Researcher
 ======
 [Yong Tang, Shanghai Ocean University](https://hyxy.shou.edu.cn/2024/1113/c7720a335682/page.htm)
+
 [Wei Ge, Harbin Engineering University](https://www.researchgate.net/scientific-contributions/Wei-Ge-2150804898)
+
 [Yusuke Yokota, University of Tokyo](https://scholar.google.com/citations?user=KOU4FkoAAAAJ&hl=ja)
+
 [Masahiko Furusawa, Tokyo University of Marine Science and Technology](https://www.researchgate.net/profile/Masahiko-Furusawa-2)
+
 [Wu-jung Lee, University of Washington](https://scholar.google.com/citations?user=AmocGskAAAAJ&hl=en)
+
 [Samuel S.Urmy, NOAA](https://scholar.google.com/citations?user=dgG4570AAAAJ&hl=en)
+
 [Fumiaki Tomita, University of Tohoku](https://scholar.google.com/citations?user=jWNraCgAAAAJ&hl=ja)
+
 [Alex De Robertis, NOAA](https://scholar.google.com/citations?user=XzEORtwAAAAJ&hl=en)
+
 [Amir Weiss, Bar-Ilan University](https://scholar.google.co.il/citations?user=g8NtwsoAAAAJ&hl=iw)
 
 Research Reference 
