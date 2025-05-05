@@ -19,6 +19,18 @@ Harbin Engineering University, Harbin, Heilongjiang Province, China
 
 Dalian Ocean University, Dalian, Liaoning Province, China
 
+Following Researcher
+======
+[Yong Tang, Shanghai Ocean University](https://hyxy.shou.edu.cn/2024/1113/c7720a335682/page.htm)
+[Wei Ge, Harbin Engineering University](https://www.researchgate.net/scientific-contributions/Wei-Ge-2150804898)
+[Yusuke Yokota, University of Tokyo](https://scholar.google.com/citations?user=KOU4FkoAAAAJ&hl=ja)
+[Masahiko Furusawa, Tokyo University of Marine Science and Technology](https://www.researchgate.net/profile/Masahiko-Furusawa-2)
+[Wu-jung Lee, University of Washington](https://scholar.google.com/citations?user=AmocGskAAAAJ&hl=en)
+[Samuel S.Urmy, NOAA](https://scholar.google.com/citations?user=dgG4570AAAAJ&hl=en)
+[Fumiaki Tomita, University of Tohoku](https://scholar.google.com/citations?user=jWNraCgAAAAJ&hl=ja)
+[Alex De Robertis, NOAA](https://scholar.google.com/citations?user=XzEORtwAAAAJ&hl=en)
+[Amir Weiss, Bar-Ilan University](https://scholar.google.co.il/citations?user=g8NtwsoAAAAJ&hl=iw)
+
 Research Reference 
 ======
 
@@ -39,27 +51,3 @@ Research Reference
 10. [Stanton T K, Lee W J, Baik K. Echo statistics associated with discrete scatterers: A tutorial on physics-based methods[J]. The Journal of the Acoustical Society of America, 2018, 144(6): 3124-3171.](https://pubs.aip.org/asa/jasa/article/144/6/3124/993369)
 11. [Lee W J, Stanton T K. Statistics of broadband echoes: Application to acoustic estimates of numerical density of fish[J]. IEEE Journal of Oceanic Engineering, 2015, 41(3): 709-723.](https://ieeexplore.ieee.org/abstract/document/7342987/)
 12. [Loranger S, Jech M J, Lavery A C. Broadband acoustic quantification of mixed biological aggregations at the New England shelf break[J]. The Journal of the Acoustical Society of America, 2022, 152(4): 2319-2335.](https://pubs.aip.org/asa/jasa/article/152/4/2319/2839494)
-
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
