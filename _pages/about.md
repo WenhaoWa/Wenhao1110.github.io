@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Wenhao Wang/Winston"
+title: "Introduction"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am now a master researcher at [Harbin Engineering University,China](https://english.hrbeu.edu.cn/).My research interest include Fisheries Acoustics, Machine Learning and Global Navigation Satellite System and Acoustic ranging(GNSS-A).I am also a member of [AFAS](https://www.afas-acoustic.org/).
+I am now a master researcher at [Harbin Engineering University, China](https://english.hrbeu.edu.cn/).My research interest include Fisheries Acoustics, Machine Learning and Global Navigation Satellite System and Acoustic ranging(GNSS-A).I am also a member of [AFAS](https://www.afas-acoustic.org/).Now my research focus on underwater target tracking based on machine learning and kalman filter.
 
 Education
 ======
