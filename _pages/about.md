@@ -11,11 +11,11 @@ I am now a master researcher at [Harbin Engineering University, China](https://e
 
 Education
 ======
-**M.Eng. in Information and Communication Engineering, 2025**
+**M.Eng. in Information and Communication Engineering, 2025(Supervised by [Wei Ge](https://homepage.hrbeu.edu.cn/web/gewei))**
 
 Harbin Engineering University, Harbin, Heilongjiang Province, China
 
-**B.A in Marine Technology, 2022**
+**B.A in Marine Technology, 2022(Supervised by [Yong Tang](https://hyxy.shou.edu.cn/2024/1113/c7720a335682/page.htm))**
 
 Dalian Ocean University, Dalian, Liaoning Province, China
 
