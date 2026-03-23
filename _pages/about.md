@@ -25,33 +25,19 @@ Following Researcher
 
 [Wei Ge, Harbin Engineering University](https://www.researchgate.net/scientific-contributions/Wei-Ge-2150804898)
 
-[Yusuke Yokota, University of Tokyo](https://scholar.google.com/citations?user=KOU4FkoAAAAJ&hl=ja)
-
 [Masahiko Furusawa, Tokyo University of Marine Science and Technology](https://www.researchgate.net/profile/Masahiko-Furusawa-2)
 
 [Wu-jung Lee, University of Washington](https://scholar.google.com/citations?user=AmocGskAAAAJ&hl=en)
 
 [Samuel S.Urmy, NOAA](https://scholar.google.com/citations?user=dgG4570AAAAJ&hl=en)
 
-[Fumiaki Tomita, University of Tohoku](https://scholar.google.com/citations?user=jWNraCgAAAAJ&hl=ja)
-
 [Alex De Robertis, NOAA](https://scholar.google.com/citations?user=XzEORtwAAAAJ&hl=en)
-
-[Amir Weiss, Bar-Ilan University](https://scholar.google.co.il/citations?user=g8NtwsoAAAAJ&hl=iw)
 
 Research Reference 
 ======
 
-**(1)GNSS-A**
 
-1. [Watanabe S, Ishikawa T, Yokota Y, et al. GARPOS: Analysis software for the GNSS‐A seafloor positioning with simultaneous estimation of sound speed structure[J]. Frontiers in Earth Science, 2020, 8: 597532.](https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2020.597532/full)
-2. [Watanabe S, Ishikawa T, Nakamura Y, et al. Full-Bayes GNSS-A solutions for precise seafloor positioning with single uniform sound speed gradient layer assumption[J]. Journal of Geodesy, 2023, 97(10): 89.](https://link.springer.com/article/10.1007/s00190-023-01774-6)
-3. [Yokota Y, Ishikawa T, Watanabe S. Gradient field of undersea sound speed structure extracted from the GNSS-A oceanography[J]. Marine Geophysical Research, 2019, 40(4): 493-504.](https://link.springer.com/article/10.1007/s11001-018-9362-7)
-4. [Yokota Y, Watanabe S, Ishikawa T, et al. Temporal Change of km‐Scale Underwater Sound Speed Structure and GNSS‐A Positioning Accuracy[J]. Earth and Space Science, 2022, 9(12): e2022EA002224.](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022EA002224)
-5. [Tomita F. Enhanced GNSS-acoustic positioning method implementing with constraints on underwater sound speed structure[J]. Earth, Planets and Space, 2024, 76(1): 178.](https://link.springer.com/article/10.1186/s40623-024-02120-6)
-6. [Ikuta R, Tadokoro K, Ando M, et al. A new GPS‐acoustic method for measuring ocean floor crustal deformation: Application to the Nankai Trough[J]. Journal of Geophysical Research: Solid Earth, 2008, 113(B2).](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2006JB004875)
-
-**(2)Fisheries Acoustics**
+**(1)Fisheries Acoustics**
 
 7. [Urmy S S, De Robertis A, Bassett C. A Bayesian inverse approach to identify and quantify organisms from fisheries acoustic data[J]. ICES Journal of Marine Science, 2024, 81(7): 1461-1477.](https://academic.oup.com/icesjms/article/81/7/1461/7220877)
 8. [Cotter E, Bassett C, Lavery A. Classification of broadband target spectra in the mesopelagic using physics-informed machine learning[J]. The Journal of the Acoustical Society of America, 2021, 149(6): 3889-3901.](https://pubs.aip.org/asa/jasa/article/149/6/3889/1059295)
