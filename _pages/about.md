@@ -11,7 +11,7 @@ I am **Wenhao Wang ("王文浩" in Chinese and "オウ ブンコウ" in Japanese
 
 Education
 ======
-**M.Eng. in Information and Communication Engineering, 2025 (Supervised by [Wei Ge](https://homepage.hrbeu.edu.cn/web/gewei) and Zhixiang Yao from [NUE](https://www.nue.edu.cn/))**
+**M.Eng. in Information and Communication Engineering, 2025 (Supervised by [Wei Ge]([https://homepage.hrbeu.edu.cn/web/gewei](https://www.researchgate.net/scientific-contributions/Wei-Ge-2150804898)) and Zhixiang Yao from [NUE](https://www.nue.edu.cn/))**
 
 Harbin Engineering University, Harbin, Heilongjiang Province, China
 
