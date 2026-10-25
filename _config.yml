@@ -20,7 +20,7 @@ repository               : "WenhaoWa/Wenhao1110.github.io"
 # Site Author - Controls the left sidebar author profile
 author:
   # Biographic information
-  avatar            : "/images/mypic.png"
+  avatar            : "../images/mypic.png"
   name              : "Wenhao Wang"
   pronouns          : # example: "he/him"  
   bio               : "PhD Candidate in Bioacoustics"
