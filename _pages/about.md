@@ -1,51 +1,70 @@
 ---
 permalink: /
-title: "Introduction"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am **Wenhao Wang ("王文浩" in Chinese and "オウ ブンコウ" in Japanese)**. I was a master researcher at [Harbin Engineering University, China](https://english.hrbeu.edu.cn/).And now a PhD Candidate of [Hokkaido University](https://www.hokudai.ac.jp/), supervised by [Evgeny Podolskiy](https://scholar.google.com/citations?hl=en&user=3GNEMwcAAAAJ&view_op=list_works&sortby=pubdate). My research interest include Fisheries Acoustics, Machine Learning, bioacoustics. I am also a member of [AFAS](https://www.afas-acoustic.org/). Now my research focus on Arctic underwater acoustics specifically about the noise affect on narwhale in Arctic.
+I am **Wenhao Wang (王文浩 / オウ ブンコウ)**, a Ph.D. student in Environmental Science at [Hokkaido University](https://www.hokudai.ac.jp/), affiliated with the Arctic Research Center and supervised by [Dr. Evgeny A. Podolskiy](https://scholar.google.com/citations?hl=en&user=3GNEMwcAAAAJ). I received my M.Eng. degree from the College of Underwater Acoustic Engineering at [Harbin Engineering University](https://english.hrbeu.edu.cn/).
 
-Education
-======
-**PhD Condidate. in Earth System Science, 2029 (Supervised by [Evgeny Podolskiy](https://scholar.google.com/citations?hl=en&user=3GNEMwcAAAAJ&view_op=list_works&sortby=pubdate)**
+My research focuses on **Arctic underwater acoustics**, **marine bioacoustics**, and **passive acoustic monitoring (PAM)**. Specifically, I investigate the underwater soundscape dynamics in Arctic glacial fjords (e.g., Bowdoin Fjord, Greenland) and the anthropogenic and glacial ambient noise impacts on narwhal vocal behavior, combining acoustic numerical propagation modeling with deep learning representation techniques.
 
-College of Environmental Science, Hokkaido University, Sapporo, Hokkaido, Japan
+I am an active member of the Asian Fisheries Acoustics Society ([AFAS](https://www.afas-acoustic.org/)).
 
-**M.Eng. in Information and Communication Engineering, 2025 (Supervised by [Wei Ge](https://www.researchgate.net/scientific-contributions/Wei-Ge-2150804898) and Zhixiang Yao from [NUE](https://www.nue.edu.cn/))**
+---
 
-College of Underwater Acoustic Engineering, Harbin, Heilongjiang Province, China
+## News
+* **[2026.10]** Currently preparing research proposals and abstracts on narwhal biosonar tracking and cryospheric noise for upcoming polar science symposiums.
+* **[2026.08]** Successfully completed pre-training of self-supervised acoustic representation models (AudioMAE) for underwater biological transient detection.
+* **[2025.04]** Began my doctoral studies at the Graduate School of Environmental Science, Hokkaido University.
 
-Following Researcher
-======
-[Yong Tang, Shanghai Ocean University](https://hyxy.shou.edu.cn/2024/1113/c7720a335682/page.htm)
+---
 
-[Wei Ge, Harbin Engineering University](https://www.researchgate.net/scientific-contributions/Wei-Ge-2150804898)
+## Research Interests
+* **Marine Bioacoustics & Biosonar:** Echolocation click sequences, temporal association tracking, and vocal behavior of Arctic cetaceans (e.g., narwhals).
+* **Underwater Acoustic Modeling:** Acoustic propagation modeling, transmission loss simulation, and soundscape analysis in shallow-water and glacial fjord environments using numerical toolboxes (BELLHOP, RAM).
+* **Signal Processing & Machine Learning:** Transient pulse detection (TKEO), self-supervised representation learning (AudioMAE, Transformers), and physics-informed classification for fisheries and biological acoustics.
 
-[Masahiko Furusawa, Tokyo University of Marine Science and Technology](https://www.researchgate.net/profile/Masahiko-Furusawa-2)
+---
 
-[Wu-jung Lee, University of Washington](https://scholar.google.com/citations?user=AmocGskAAAAJ&hl=en)
+## Education
+* **Ph.D. in Environmental Science (Earth System Science)** <span style="float:right;">*2025 – Present (Expected 2029)*</span>  
+  *Graduate School of Environmental Science, Hokkaido University, Sapporo, Japan*  
+  Advisor: Dr. Evgeny A. Podolskiy  
+* **M.Eng. in Information and Communication Engineering** <span style="float:right;">*2022 – 2025*</span>  
+  *College of Underwater Acoustic Engineering, Harbin Engineering University, Harbin, China*  
+  Advisors: Prof. Wei Ge & Prof. Zhixiang Yao
 
-Research Reference 
-======
+---
 
-**(1)Fisheries Acoustics**
+## Selected Research Topics & Projects
 
-7. [Urmy S S, De Robertis A, Bassett C. A Bayesian inverse approach to identify and quantify organisms from fisheries acoustic data[J]. ICES Journal of Marine Science, 2024, 81(7): 1461-1477.](https://academic.oup.com/icesjms/article/81/7/1461/7220877)
-8. [Cotter E, Bassett C, Lavery A. Classification of broadband target spectra in the mesopelagic using physics-informed machine learning[J]. The Journal of the Acoustical Society of America, 2021, 149(6): 3889-3901.](https://pubs.aip.org/asa/jasa/article/149/6/3889/1059295)
-9. [Dunn M, McGowan-Yallop C, Pedersen G, et al. Model-informed classification of broadband acoustic backscatter from zooplankton in an in situ mesocosm[J]. ICES Journal of Marine Science, 2024, 81(7): 1371-1384.](https://academic.oup.com/icesjms/article/81/7/1371/7460294)
-10. [Stanton T K, Lee W J, Baik K. Echo statistics associated with discrete scatterers: A tutorial on physics-based methods[J]. The Journal of the Acoustical Society of America, 2018, 144(6): 3124-3171.](https://pubs.aip.org/asa/jasa/article/144/6/3124/993369)
-11. [Lee W J, Stanton T K. Statistics of broadband echoes: Application to acoustic estimates of numerical density of fish[J]. IEEE Journal of Oceanic Engineering, 2015, 41(3): 709-723.](https://ieeexplore.ieee.org/abstract/document/7342987/)
-12. [Loranger S, Jech M J, Lavery A C. Broadband acoustic quantification of mixed biological aggregations at the New England shelf break[J]. The Journal of the Acoustical Society of America, 2022, 152(4): 2319-2335.](https://pubs.aip.org/asa/jasa/article/152/4/2319/2839494)
+### 1. Narwhal Biosonar Analysis in High-Noise Glacial Fjords
+Investigating long-term multi-sensor mooring datasets (hydrophones, CTD) deployed in Bowdoin Fjord, Northwestern Greenland. We focus on developing robust detection and tracking pipelines using energy operators and self-supervised architectures to extract high-dimensional vocalization features despite intense calving/melting ice noise.
 
-Activity 
-======
-[Tiktok Blogger](https://www.douyin.com/user/self?from_tab_name=main)
+### 2. Underwater Sound Field & Propagation Simulation
+Simulating sound propagation dynamics across heterogeneous seasonal water columns using parabolic equation (RAM) and Gaussian beam tracking (BELLHOP) methods to quantify biological acoustic transmission loss and impact zones.
 
-[Cities: Skylines](https://www.paradoxinteractive.com/games/cities-skylines/about): My goal is to establish tokyo!!૮₍ ˃̶ ꇴ ˂̶ ₎ა 
+---
 
-![image](https://github.com/user-attachments/assets/8e4ba94a-74ac-4947-98a2-2648e39eb0de)
+## Technical Skills
+* **Acoustics & Analysis Toolboxes:** BELLHOP, RAM, PAMGuard, Raven Pro.
+* **Programming & Scientific Computing:** Python (PyTorch, Torchaudio, SciPy, xarray, rasterio, Matplotlib), MATLAB, Bash, Git.
+* **Data & Observation:** Underwater acoustic mooring arrays, CTD oceanographic data, Sentinel-1 SAR, NetCDF climate reanalysis.
 
+---
+
+## Key Academic Inspirations
+I closely follow and draw inspiration from methodological advancements developed by the following researchers:
+* [Dr. Wu-Jung Lee](https://scholar.google.com/citations?user=AmocGskAAAAJ&hl=en) (*University of Washington*) – Broadband bioacoustics & echo statistics
+* [Dr. Evgeny A. Podolskiy](https://scholar.google.com/citations?hl=en&user=3GNEMwcAAAAJ) (*Hokkaido University*) – Cryoseismology & polar soundscapes
+* [Prof. Masahiko Furusawa](https://www.researchgate.net/profile/Masahiko-Furusawa-2) (*Tokyo University of Marine Science and Technology*) – Fisheries acoustics fundamentals
+* [Prof. Wei Ge](https://www.researchgate.net/scientific-contributions/Wei-Ge-2150804898) (*Harbin Engineering University*) – Underwater signal processing
+* [Prof. Yong Tang](https://hyxy.shou.edu.cn/2024/1113/c7720a335682/page.htm) (*Shanghai Ocean University*) – Marine acoustic instrumentation
+
+---
+
+## Beyond Research
+Outside the lab, I enjoy long-distance running along the coastal and green pathways of Hokkaido, urban design and management simulation (*Cities: Skylines*), and science communication.
