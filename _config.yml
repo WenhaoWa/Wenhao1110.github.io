@@ -1,30 +1,314 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# `jekyll serve -l -H localhost`. If you change this file, please restart the 
+# server process.
+
 # Basic Site Settings
-locale           : "en-US"
-site_theme       : "default"
-title            : "Wenhao Wang"
-title_separator  : "-"
-name             : &name "Wenhao Wang"
-description      : &description "PhD Candidate in Marine Bioacoustics & Underwater Signal Processing"
+locale                   : "en-US"
+site_theme               : "default"
+title                    : "Wenhao Wang"
+title_separator          : "-"
+name                     : &name "Wenhao Wang"
+description              : &description "PhD Candidate in Environmental Science & Marine Bioacoustics"
+url                      : "https://wenhaowa.github.io" # the base hostname & protocol for your site
+baseurl                  : "/Wenhao1110.github.io" # the subpath of your site
+repository               : "WenhaoWa/Wenhao1110.github.io"
 
-# 方案 A：如果是项目页面 (Repository 为 Wenhao1110.github.io，部署在 wenhaowa 账号下)
-url              : "https://wenhaowa.github.io"
-baseurl          : "/Wenhao1110.github.io"
-
-# 方案 B：如果这是您账号的顶级主页 (Repository 本身就叫 wenhaowa.github.io)
-# url            : "https://wenhaowa.github.io"
-# baseurl        : ""
-
-repository       : "WenhaoWa/Wenhao1110.github.io"
-
+# Site Author - Controls the left sidebar author profile
 author:
-  avatar         : "/images/mypic.png"
-  name           : "Wenhao Wang"
-  bio            : "PhD Candidate"
-  location       : "Sapporo, Japan"
-  employer       : "Hokkaido University"
-  email          : "1746237524axxy@gmail.com"
-  
-  # 建议启用的学术标识（填入对应 ID/链接）
-  googlescholar  : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  orcid          : "https://orcid.org/0000-0000-0000-0000" # 替换为您真实的 ORCID
-  github         : "WenhaoWa"
+  # Biographic information
+  avatar            : "/images/mypic.png"
+  name              : "Wenhao Wang"
+  pronouns          : # example: "he/him"  
+  bio               : "PhD Candidate in Bioacoustics"
+  location          : "Sapporo, Japan"
+  employer          : "Hokkaido University"
+  uri               : # URL
+  email             : "1746237524axxy@gmail.com" 
+
+  # Academic websites (Uncomment and update when ready)
+  academia          : # URL
+  arxiv             : # URL
+  googlescholar     : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  impactstory       : # URL
+  orcid             : # "https://orcid.org/0000-0000-0000-0000"
+  semantic          : # URL
+  pubmed            : # URL
+  researchgate      : # URL
+  scopus            : # URL
+
+  # Repositories and software development
+  bitbucket         : # Username
+  codepen           : # Username
+  dribbble          : # Username
+  github            : "WenhaoWa"
+  kaggle            : # Username  
+  stackoverflow     : # User number
+
+  # Social media
+  bluesky           : # Username
+  facebook          : # Username
+  flickr            : # Username
+  foursquare        : # Username
+  goodreads         : # Username
+  google_plus       : # Username
+  keybase           : # Username
+  instagram         : # Username
+  lastfm            : # Username
+  linkedin          : # Username
+  mastodon          : # URL
+  medium            : # URL
+  pinterest         : # Username
+  soundcloud        : # Username
+  steam             : # Username
+  telegram          : # URL
+  tumblr            : # Username
+  twitter           : "wwhaxxy1314"
+  vine              : # Username
+  weibo             : # Username
+  wikipedia         : # Username
+  xing              : # Username
+  youtube           : # Username
+  zhihu             : "gu-du-de-shi-58"
+
+# Publication Category
+publication_category:
+  books:
+    title: 'Books'
+  manuscripts:
+    title: 'Journal Articles'    
+  conferences:
+    title: 'Conference Papers'
+
+# Site Settings
+teaser                   :  # filename of fallback teaser image in /images/, e.g. "500x300.png"
+breadcrumbs              : false
+words_per_minute         : 160
+future                   : true
+read_more                : "disabled"
+talkmap_link             : false
+comments:
+  provider               : false # false (default), "disqus", "discourse", "facebook", "staticman", "custom"
+  disqus:
+    shortname            :
+  discourse:
+    server               :
+  facebook:
+    appid                :
+    num_posts            : 5
+    colorscheme          : "light"
+
+staticman:
+  allowedFields          : ['name', 'email', 'url', 'message']
+  branch                 : "gh-pages"
+  commitMessage          : "New comment."
+  filename               : comment-{@timestamp}
+  format                 : "yml"
+  moderation             : true
+  path                   : "_data/comments/{options.slug}"
+  requiredFields         : ['name', 'email', 'message']
+  transforms:
+    email                : "md5"
+  generatedFields:
+    date:
+      type               : "date"
+      options:
+        format           : "iso8601"
+
+atom_feed:
+  hide                   : false
+  path                   : # blank defaults to feed.xml
+
+# SEO Related
+google_site_verification :
+bing_site_verification   :
+alexa_site_verification  :
+yandex_site_verification :
+
+# Social Sharing
+twitter:
+  username               : &twitter "wwhaxxy1314"
+facebook:
+  username               :
+  app_id                 :
+  publisher              :
+og_image                 :
+
+social:
+  type                   : Person
+  name                   : "Wenhao Wang"
+  links:
+    - "https://github.com/WenhaoWa"
+    - "https://twitter.com/wwhaxxy1314"
+    - "https://www.zhihu.com/people/gu-du-de-shi-58"
+
+# Analytics
+analytics:
+  provider               : "false" # false (default), "google", "google-analytics-4", "custom"
+  google:
+    tracking_id          :
+
+# Reading Files
+include:
+  - .htaccess
+  - _pages
+  - files
+exclude:
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - .asset-cache
+  - .bundle
+  - .github
+  - .jekyll-assets-cache
+  - .sass-cache
+  - assets/js/_main.js
+  - assets/js/plugins
+  - assets/js/vendor
+  - CHANGELOG
+  - Capfile
+  - config
+  - Dockerfile
+  - Gemfile
+  - Gruntfile.js
+  - gulpfile.js
+  - LICENSE
+  - local
+  - log
+  - node_modules
+  - package.json*
+  - Rakefile
+  - README
+  - tmp
+  - vendor
+keep_files:
+  - .git
+  - .svn
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+# Collections
+collections:
+  teaching:
+    output: true
+    permalink: /:collection/:path/
+  publications:
+    output: true
+    permalink: /:collection/:path/
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+  talks:
+    output: true
+    permalink: /:collection/:path/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  - scope:
+      path: ""
+      type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
+
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Outputting
+permalink: /:categories/:title/
+timezone: Etc/UTC
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-redirect-from
+  - jemoji
+
+# Mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-redirect-from
+  - jemoji
+
+# Archives
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+
+# HTML Compression
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
