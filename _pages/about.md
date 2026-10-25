@@ -7,21 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-I am **Wenhao Wang ("王文浩" in Chinese and "オウ ブンコウ" in Japanese)**. I was a master researcher at [Harbin Engineering University, China](https://english.hrbeu.edu.cn/).And now a PhD Candidate of [Hokkaido University](https://www.hokudai.ac.jp/), supervised by [Evgeny Podolskiy](https://scholar.google.com/citations?hl=en&user=3GNEMwcAAAAJ&view_op=list_works&sortby=pubdate). My research interest include Fisheries Acoustics, Machine Learning, bioacoustics. I am also a member of [AFAS](https://www.afas-acoustic.org/). Now my research focus on Arctic underwater acoustics specifically about the noise affect on narwhale in Arctic. In terms of private, I have a girlfriend named **Xiaoyu Xia ("夏晓雨" in Chinese)** who is pursuing the master degree at [Shantou University](https://www.stu.edu.cn/), [College of Science](https://sci.stu.edu.cn/index.htm), [Guangdong Provincial Key Laboratory of Marine Disaster Prediction and Prevention](http://sph.stu.edu.cn/marine/index.htm) ("海洋灾害预警与防护广东省重点实验室" in Chinese). Here is her [homepage](https://xxy-1110.github.io/Xxy1110.github.io/).
+I am **Wenhao Wang ("王文浩" in Chinese and "オウ ブンコウ" in Japanese)**. I was a master researcher at [Harbin Engineering University, China](https://english.hrbeu.edu.cn/).And now a PhD Candidate of [Hokkaido University](https://www.hokudai.ac.jp/), supervised by [Evgeny Podolskiy](https://scholar.google.com/citations?hl=en&user=3GNEMwcAAAAJ&view_op=list_works&sortby=pubdate). My research interest include Fisheries Acoustics, Machine Learning, bioacoustics. I am also a member of [AFAS](https://www.afas-acoustic.org/). Now my research focus on Arctic underwater acoustics specifically about the noise affect on narwhale in Arctic.
 
 Education
 ======
-**PhD Condidate. in Earth System Science, 2029 (Supervised by [Evgeny Podolskiy](https://scholar.google.com/citations?hl=en&user=3GNEMwcAAAAJ&view_op=list_works&sortby=pubdate) and Zhixiang Yao from [NUE](https://www.nue.edu.cn/))**
+**PhD Condidate. in Earth System Science, 2029 (Supervised by [Evgeny Podolskiy](https://scholar.google.com/citations?hl=en&user=3GNEMwcAAAAJ&view_op=list_works&sortby=pubdate)**
 
-Hokkaido University, Sapporo, Hokkaido, Japan
+College of Environmental Science, Hokkaido University, Sapporo, Hokkaido, Japan
 
 **M.Eng. in Information and Communication Engineering, 2025 (Supervised by [Wei Ge](https://www.researchgate.net/scientific-contributions/Wei-Ge-2150804898) and Zhixiang Yao from [NUE](https://www.nue.edu.cn/))**
 
 College of Underwater Acoustic Engineering, Harbin, Heilongjiang Province, China
-
-**B.A in Marine Technology, 2022 (Supervised by [Yong Tang](https://hyxy.shou.edu.cn/2024/1113/c7720a335682/page.htm))**
-
-Dalian Ocean University, Dalian, Liaoning Province, China
 
 Following Researcher
 ======
@@ -33,13 +29,8 @@ Following Researcher
 
 [Wu-jung Lee, University of Washington](https://scholar.google.com/citations?user=AmocGskAAAAJ&hl=en)
 
-[Samuel S.Urmy, NOAA](https://scholar.google.com/citations?user=dgG4570AAAAJ&hl=en)
-
-[Alex De Robertis, NOAA](https://scholar.google.com/citations?user=XzEORtwAAAAJ&hl=en)
-
 Research Reference 
 ======
-
 
 **(1)Fisheries Acoustics**
 
