@@ -11,9 +11,13 @@ I am **Wenhao Wang ("王文浩" in Chinese and "オウ ブンコウ" in Japanese
 
 Education
 ======
+**PhD Condidate. in Earth System Science, 2029 (Supervised by [Evgeny Podolskiy](https://scholar.google.com/citations?hl=en&user=3GNEMwcAAAAJ&view_op=list_works&sortby=pubdate) and Zhixiang Yao from [NUE](https://www.nue.edu.cn/))**
+
+Hokkaido University, Sapporo, Hokkaido, Japan
+
 **M.Eng. in Information and Communication Engineering, 2025 (Supervised by [Wei Ge](https://www.researchgate.net/scientific-contributions/Wei-Ge-2150804898) and Zhixiang Yao from [NUE](https://www.nue.edu.cn/))**
 
-Harbin Engineering University, Harbin, Heilongjiang Province, China
+College of Underwater Acoustic Engineering, Harbin, Heilongjiang Province, China
 
 **B.A in Marine Technology, 2022 (Supervised by [Yong Tang](https://hyxy.shou.edu.cn/2024/1113/c7720a335682/page.htm))**
 
