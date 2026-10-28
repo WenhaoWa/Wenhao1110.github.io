@@ -16,7 +16,7 @@ I am an active member of the Asian Fisheries Acoustics Society ([AFAS](https://w
 ---
 
 ## News
-* **[2025.04]** Began my doctoral studies at the Graduate School of Environmental Science, Hokkaido University.
+* **[2026.04]** Began my doctoral studies at the Graduate School of Environmental Science, Hokkaido University.
 
 ---
 
