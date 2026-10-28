@@ -16,8 +16,6 @@ I am an active member of the Asian Fisheries Acoustics Society ([AFAS](https://w
 ---
 
 ## News
-* **[2026.10]** Currently preparing research proposals and abstracts on narwhal biosonar tracking and cryospheric noise for upcoming polar science symposiums.
-* **[2026.08]** Successfully completed pre-training of self-supervised acoustic representation models (AudioMAE) for underwater biological transient detection.
 * **[2025.04]** Began my doctoral studies at the Graduate School of Environmental Science, Hokkaido University.
 
 ---
